@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your GitHub repo link here]
-- Live Site URL: [Add your live site URL here, e.g., Vercel or GitHub Pages]
+- Solution URL: [https://github.com/BaskoroR725/02-blog-preview-card.git](https://github.com/BaskoroR725/02-blog-preview-card.git)
+- Live Site URL: [https://baskoror725.github.io/02-blog-preview-card](https://baskoror725.github.io/02-blog-preview-card)
 
 ## My process
 
